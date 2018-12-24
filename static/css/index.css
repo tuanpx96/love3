@@ -1,9 +1,14 @@
 body {
-    background-color: #f8fff9;
+    background-color: #751821;
+    font-family: "sans-serif";
+    font-weight: lighter;
+    font-size: 30px;
+    alignment: center;
+    color: #f5f8ff;
 }
 
 img {
-    max-width: 100%;
-    height: auto;
-    width: auto \9;
+    width: 100%;
+    left: 0px;
+    right: 0px;
 }
