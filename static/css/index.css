@@ -5,10 +5,10 @@ body {
     font-size: 30px;
     alignment: center;
     color: #f5f8ff;
+
 }
 
 img {
     width: 100%;
-    left: 0px;
-    right: 0px;
+    height: auto;
 }
